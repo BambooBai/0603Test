@@ -23,4 +23,4 @@ console.log("we can we up!");
 let setCss = (ele,attr,val)=>{
 	ele.attr = val;//就这样啦
 };
-
+//zheshihgahghaghgla-zxb
